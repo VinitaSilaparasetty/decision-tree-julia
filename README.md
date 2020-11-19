@@ -1,5 +1,8 @@
 # decision-tree-julia
 
+ From USA Forensic Science Service; 6 types of glass; defined in terms of their oxide content (i.e. Na, Fe, K, etc)
+The study of classification of types of glass was motivated by criminological investigation. At the scene of the crime, the glass left can be used as evidence...if it is correctly identified!
+
 Attribute Information:
 
 1. Id number: 1 to 214
@@ -20,3 +23,18 @@ Attribute Information:
 -- 5 containers
 -- 6 tableware
 -- 7 headlamps
+
+Creator:
+
+B. German
+Central Research Establishment
+Home Office Forensic Science Service
+Aldermaston, Reading, Berkshire RG7 4PN
+
+Donor:
+
+Vina Spiehler, Ph.D., DABFT
+Diagnostic Products Corporation
+(213) 776-0180 (ext 3014)
+
+Source link: https://archive.ics.uci.edu/ml/datasets/Glass+Identification
